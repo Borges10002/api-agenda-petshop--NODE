@@ -1,0 +1,25 @@
+/*site da npm*/
+https://www.npmjs.com/
+
+pacote frawork que criar rota etc..
+https://www.npmjs.com/package/express
+npm install express
+
+estalar nodemon
+https://www.npmjs.com/package/nodemon
+npm install --save-dev nodemon
+
+agrupamento de rotas
+npm install consign
+
+estalar o mysql no node
+npm install mysql
+
+ler body envia pelo post 
+npm install body-parser
+
+trabalhar com data
+npm install moment
+
+/*site para pega retorno */
+https://httpstatuses.com/
